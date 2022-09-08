@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**shun20010921/shun20010921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/shun20010921/shun20010921/">
+    <img src="https://komarev.com/ghpvc/?username=shun20010921" alt="shun20010921" />
+  </a>
+  <a href="http://twitter.com/shun_k_tech">
+    <img height="20" src="https://img.shields.io/twitter/follow/shun_k_tech?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/shun20010921">
+    <img height="20" src="https://img.shields.io/github/followers/shun20010921?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Shunk_">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Shunk_/posts.svg" />
+  </a>
+  <//qiita.com/Shunk_">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Shunk_/contributions.svg" />
+  </a>
+</p>
