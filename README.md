@@ -15,5 +15,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Shunk_/contributions.svg" />
   </a>
 </p>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shun20010921)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shun20010921&show_icons=true&theme=radical)
