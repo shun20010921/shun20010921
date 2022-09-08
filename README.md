@@ -17,3 +17,4 @@
 </p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shun20010921&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shun20010921)](https://github.com/shun20010921/github-readme-stats)
