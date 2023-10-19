@@ -24,8 +24,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shun20010921&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   
-
-こんなの作ってみましたが、普段作業してるレポジトリが大体privateなのであんまり当てになりませんでした・・・・ 
-  
 ROSがチョット触れます、STM32やAVRの開発経験があります。
   Eagle、Inventor、SolidWorks、Fusion360を触ったことがあります。
+
+九州工業大学伊藤・福井FC研究室で制御工学に足を踏み入れました．
